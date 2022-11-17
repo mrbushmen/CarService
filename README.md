@@ -1,2 +1,2 @@
 # CarService
-Database entity framework
+Тестовое задание на позицию Junior C# developer - база данных автосервиса на entity framework
